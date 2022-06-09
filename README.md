@@ -23,3 +23,6 @@ Fake YouTube Version Setting - Needed due to youtube 17.xx or newer not having t
 (Pink) ![D9DF66F3-3199-4B4C-AD63-D599CCAC4BFD](https://user-images.githubusercontent.com/78001398/172772039-130c5099-5c87-4589-9d21-ed5c794f22bb.jpeg)
 
 Red is gone, i replaced the red progress bar with white, tell me if i should bring it back.
+
+#### Colors that I won't add in this tweak as of right now.
+Black, Brown, Gray, Violet, Yellow, Orange, Green & Red+DarkRed

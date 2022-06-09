@@ -1,0 +1,9 @@
+Package: com.arichorn.ytprogressbarcolors
+Name: YTProgressBarColors
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.7)
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: color for the progress bar is gonna be a small addition to its YouTube Appearance
+Maintainer: arichorn
+Author: arichorn
+Section: Tweak and Appearance

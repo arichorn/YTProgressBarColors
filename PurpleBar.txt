@@ -1,0 +1,11 @@
+UIColor* YTPurple = [UIColor colorWithRed: 0.53 green: 0.00 blue: 0.99 alpha: 1.00];
+
+%group gOLED
+%hook YTCommonColorPalette
+- (UIColor *)ProgressBar {
+    if (self.pageStyle == 1) {
+        return YTPurple;
+    }
+        return %orig;
+}
+%end

@@ -6,8 +6,11 @@ About the Tweak: Having an ability to change the YouTube video player color woul
 #### Supported iOS/iPadOS Version
 iOS/iPadOS 13.7 or later
 
+#### Tweak Dependences (Required)
+Fake YouTube Version Setting - Needed due to youtube 17.xx or newer not having the progress bar being modifiable.
+
 # YTProgressBarColors All Color Previews (Photoshopped Examples)
-(White/DefaultColor) ![B8346808-B68E-471B-B62A-AB9F2DFA73A4](https://user-images.githubusercontent.com/78001398/172771551-0e771186-28b4-4ff4-aafb-9bdd19ae0104.jpeg)
+(White) - Default Color ![B8346808-B68E-471B-B62A-AB9F2DFA73A4](https://user-images.githubusercontent.com/78001398/172771551-0e771186-28b4-4ff4-aafb-9bdd19ae0104.jpeg)
 
 (Lime) ![AB9C7406-562B-4C47-A49B-053E0705045F](https://user-images.githubusercontent.com/78001398/172771734-b7b2834d-93f7-411b-b159-54460705718d.jpeg)
 

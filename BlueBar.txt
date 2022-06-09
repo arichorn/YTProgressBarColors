@@ -2,7 +2,7 @@ UIColor* YTBlue = [UIColor colorWithRed:0.5647 green:0.5647 blue:0.5647 alpha:1.
 
 %group gOLED
 %hook YTCommonColorPalette
-- (UIColor *)Icons {
+- (UIColor *)ProgressBar {
     if (self.pageStyle == 1) {
         return YTBlue;
     }
